@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ajaypatidar7722/portfolio-website/static/css/main.d3579446.css",
+    "main.js": "/ajaypatidar7722/portfolio-website/static/js/main.4bda2c85.js",
+    "static/js/415.4d6acbeb.chunk.js": "/ajaypatidar7722/portfolio-website/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ajaypatidar7722/portfolio-website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/AcceleratorApp.png": "/ajaypatidar7722/portfolio-website/static/media/AcceleratorApp.86182c357fa95bd2eb78.png",
+    "static/media/Glints.png": "/ajaypatidar7722/portfolio-website/static/media/Glints.715423263b0afa69ae9e.png",
+    "static/media/Iwave.png": "/ajaypatidar7722/portfolio-website/static/media/Iwave.cdb583f7ab5ddff91082.png",
+    "static/media/Santiment.png": "/ajaypatidar7722/portfolio-website/static/media/Santiment.afbeb914b6d1e806a9c7.png",
+    "static/media/Resume_Ajay Patidar _Full-Stack.pdf": "/ajaypatidar7722/portfolio-website/static/media/Resume_Ajay Patidar _Full-Stack.0f626bdfc96625f54e56.pdf",
+    "static/media/home-main.svg": "/ajaypatidar7722/portfolio-website/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/ajaypatidar7722/portfolio-website/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/ajaypatidar7722/portfolio-website/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/ajaypatidar7722/portfolio-website/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/ajaypatidar7722/portfolio-website/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/ajaypatidar7722/portfolio-website/index.html",
+    "main.d3579446.css.map": "/ajaypatidar7722/portfolio-website/static/css/main.d3579446.css.map",
+    "main.4bda2c85.js.map": "/ajaypatidar7722/portfolio-website/static/js/main.4bda2c85.js.map",
+    "415.4d6acbeb.chunk.js.map": "/ajaypatidar7722/portfolio-website/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ajaypatidar7722/portfolio-website/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3579446.css",
+    "static/js/main.4bda2c85.js"
+  ]
+}
