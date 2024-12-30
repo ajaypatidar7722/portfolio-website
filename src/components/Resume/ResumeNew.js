@@ -10,8 +10,7 @@ import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  'https://raw.githubusercontent.com/Madhavkabra/Portfolio/master/src/Assets/Resume%20Madhav%202023%20Dated.pdf';
-// const resumeLink='https://drive.google.com/file/d/1gB-yScd-50V-YALTS8n8Of5H-4ThII1C/view?usp=sharing';
+  'https://raw.githubusercontent.com/ajaypatidar7722/portfolio-website/main/src/Assets/Resume_Ajay%20Patidar%20_Full-Stack.pdf';
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);

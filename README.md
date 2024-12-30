@@ -2,9 +2,8 @@
   Portfolio Website - v2.0<br/>
   <a href="" target="_blank"></a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img2.jpg" />
-</div>
+
+  <a href="https://ajay-patidar.vercel.app/" target="_blank">See live demo</a>
 
 <br/>
 
